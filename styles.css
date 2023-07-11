@@ -1,0 +1,30 @@
+.title{
+    font-family: 'Josefin Sans', sans-serif;
+    color:white;
+}
+
+.title-container{
+    background-color: red;
+    padding-top: 3.5rem;
+    color:white;
+}
+
+.instructions{
+    background-color: #A90011;
+}
+
+.bubble{
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    height:100%;
+}
+
+.bubble h2 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.foot {
+    background-color: #D10000;
+    color:white;
+}
